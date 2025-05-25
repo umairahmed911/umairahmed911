@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Umair Ahmed</h1>
 <h3 align="center">Turning ideas into intelligent solutions with code and creativity.</h3>
 
-- 🌱 I’m currently learning **Language Models, Algos**
+- I’m currently learning **Language Models, Algos**
 
-- 💬 Ask me about **Android, Java, C++, Python**
+- Ask me about **Android, Java, C++, Python**
 
-- 📫 How to reach me **umairahmedf23@nutech.edu.pk**
+- How to reach me **umairahmedf23@nutech.edu.pk**
+- Portfolio **https://umair7025.vercel.app/**
 
-- ⚡ Fun fact **I love travelling 🌍✈️**
+- Fun fact **I love travelling 🌍✈️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
